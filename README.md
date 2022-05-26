@@ -1,6 +1,6 @@
 # class-and-driver
-this were used for my assignment to make class
-warning there is error part:
+this were used for my assignment to make class.
+WARNING there is error part:
 propertydriver.py
 - when user enter no 3 most expensive results won't show and resulting error in this part
 - when user enter no 4 it won't show the type of each apartment
